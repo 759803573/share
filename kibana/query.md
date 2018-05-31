@@ -70,7 +70,7 @@ kibana的查询语法有两种:
 	   
     如：我要查询某一个字段存在,并且字段不为空的记录(最下面附上了格式化的JSON语句)
 
-![query example](vierfile.png)
+![query example](viewfile.png)
 	
     * 如果只限制字段存在可以用es扩展的查询语法: _exists_:data.params.lesson_id
 
